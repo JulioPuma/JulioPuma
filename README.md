@@ -1,23 +1,22 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+# 👋 Hi, I'm Julio!
 
-## Hi there 👋, I'm Julio
+I'm a passionate backend developer with a love for exploring new technologies and constantly challenging myself with innovative projects. 🚀 My main language is **Java** and I enjoy building scalable and efficient **microservices**.
 
-<!--
-**JulioPuma/JulioPuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+- 🔧 I love developing and experimenting with new technologies.
+- 💡 I'm always looking to implement **best practices** in my projects.
+- 📖 Currently, I'm immersed in the world of **Kafka**, **Project Reactor** from **Spring**, **H2**, **JDBC**, and **R2DBC**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Projects I'm Working On
 
--->
+- **Microservices with Kafka**: Developing reactive applications that leverage real-time messaging.
+- **Integration with Project Reactor**: Exploring asynchronous flows to enhance performance.
+- **Reactive Databases**: Using **R2DBC** for non-blocking interactions with databases.
+- **Experimenting with New Technologies**: Always creating projects to experiment and improve.
+
+## 📢 Check It Out!
+
+😊 I invite you to check out my projects and see what I'm working on. 📊 If you have any suggestions or just want to connect, feel free to reach out.
+
+⭐✨ Thanks for visiting my repository! 🌟
